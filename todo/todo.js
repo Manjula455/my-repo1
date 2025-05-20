@@ -28,7 +28,7 @@ const addTask = (task) => {
   const tasks = loadTasks();
   tasks.push({ task });
   saveTasks(tasks);
-  console.log("tasks added", task);
+  console.log("tasks is added", task);
 };
 
 if (command === "add") {

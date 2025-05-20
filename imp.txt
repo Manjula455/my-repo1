@@ -1,2 +1,4 @@
 Server is the software which serves you
 API- Application Program Interface
+
+nginx- is a web server
