@@ -2,3 +2,16 @@ Server is the software which serves you
 API- Application Program Interface
 
 nginx- is a web server
+
+
+Database--> 1. SQL(Structured Query Language), 2. NO-SQL(Not Only SQL)
+
+ORM - Object Relational Maper
+
+example for ORM are "Mongoose", Prisma and Drizzle
+
+
+npm i -D nodemon--> for dev dependencies
+
+
+https://expressjs.com/en/5x/api.html#res.get
